@@ -146,7 +146,6 @@ OXBAR 8000puffs Fanta Strawberry - R$ 57,00
 OXBAR 8000puffs Fruit Paradise - R$ 57,00 
 OXBAR 8000puffs Kiwi Passion Kick - R$ 57,00 
 OXBAR 8000puffs Lemon Mint - R$ 57,00 
-OXBAR 8000puffs Lychee Watermelon - R$ 57,00 
 OXBAR 8000puffs Mad Blue - R$ 57,00 
 OXBAR 8000puffs Mango Peach - R$ 57,00 
 OXBAR 8000puffs Peach Blue Razz - R$ 57,00 
