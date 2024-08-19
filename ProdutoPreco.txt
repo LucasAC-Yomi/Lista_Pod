@@ -143,7 +143,6 @@ OXBAR 8000puffs Cranberry Grape - R$ 57,00
 OXBAR 8000puffs Cranberry Lemon Ice - R$ 57,00 
 OXBAR 8000puffs Double Apple - R$ 57,00 
 OXBAR 8000puffs Fanta Strawberry - R$ 57,00 
-OXBAR 8000puffs Fruit Paradise - R$ 57,00 
 OXBAR 8000puffs Kiwi Passion Kick - R$ 57,00 
 OXBAR 8000puffs Lemon Mint - R$ 57,00 
 OXBAR 8000puffs Mad Blue - R$ 57,00 

@@ -148,7 +148,6 @@ OXBAR 8000puffs Kiwi Passion Kick
 OXBAR 8000puffs Lemon Mint
 OXBAR 8000puffs Lychee Watermelon
 OXBAR 8000puffs Mad Blue
-OXBAR 8000puffs Mango Peach
 OXBAR 8000puffs Peach Blue Razz
 OXBAR 8000puffs Peach Ice
 OXBAR 8000puffs Rainbow Drop
