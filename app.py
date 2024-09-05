@@ -2,8 +2,6 @@ from bs4 import BeautifulSoup
 
 listaNome = []
 listaPreco = []
-tabela = []
-preco = ''
 
 file = open("index.txt", "r", encoding='UTF8')
 texto = file.read()
