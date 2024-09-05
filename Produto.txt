@@ -1,5 +1,9 @@
 Bateria do LOWIT
 Carregador Life Pod Eco II
+ELFBAR EW 16000puffs Refil Grape Ice
+ELFBAR EW 16000puffs Refil Strawberry Ice
+ELFBAR EW 16000puffs Refil Strawberry Kiwi
+ELFBAR EW 16000puffs Refil Watermelon Ice
 ELFBAR EW 9000puffs KIT Blue Razz Ice
 ELFBAR EW 9000puffs KIT California Cherry
 ELFBAR EW 9000puffs KIT Cherry Strazz
@@ -12,25 +16,9 @@ ELFBAR EW 9000puffs KIT Sour Lush Gummy
 ELFBAR EW 9000puffs KIT Strawberry Kiwi
 ELFBAR EW 9000puffs KIT Strawberry Orange
 ELFBAR EW 9000puffs KIT Watermelon Ice
-ELFBAR EW 9000puffs Refil Blue Razz Ice
-ELFBAR EW 9000puffs Refil California Cherry
 ELFBAR EW 9000puffs Refil Cherry Strazz
-ELFBAR EW 9000puffs Refil Grape Ice
 ELFBAR EW 9000puffs Refil Sour Lush Gummy
-ELFBAR Funky 7000puffs Berry Mix
-ELFBAR Funky 7000puffs Blossom Mint
-ELFBAR Funky 7000puffs Blue Razz Ice
-ELFBAR Funky 7000puffs Blueberry Duo Ice
-ELFBAR Funky 7000puffs Blueberry Rose Mint
-ELFBAR Funky 7000puffs California Cherry
-ELFBAR Funky 7000puffs Cantaloupe Apple
-ELFBAR Funky 7000puffs Orange Starfruit Kiwi Ice
-ELFBAR Funky 7000puffs Peach Mango Watermelon
-ELFBAR Funky 7000puffs Pineapple Coconut Ice
-ELFBAR Funky 7000puffs Pink Grapefruit
 ELFBAR Funky 7000puffs Pomelo Pearl Grape
-ELFBAR Funky 7000puffs Rinbo Cloudd
-ELFBAR Funky 7000puffs Tropical Island
 ELFBAR Hebat 12000puffs Blueberry Ice
 ELFBAR Hebat 12000puffs Cool Mint
 ELFBAR Hebat 12000puffs Grape
@@ -45,34 +33,41 @@ ELFBAR Hebat 12000puffs Strawberry Ice
 ELFBAR Hebat 12000puffs Watermelon Juice
 Elfbar BC 10000puffs Blackberry Cranberry
 Elfbar BC 10000puffs Blueberry Gami
-Elfbar BC 10000puffs Blueberry Ice
-Elfbar BC 10000puffs Blueberry Mint
-Elfbar BC 10000puffs Red Berry Cherry
-Elfbar BC 10000puffs Strawberry Banana
 Elfbar GH 23000puffs Blue Razz
+Elfbar GH 23000puffs Grape Ice
 Elfbar GH 23000puffs Green Apple
+Elfbar GH 23000puffs Ice Mint
+Elfbar GH 23000puffs Kiwi Dragon Fruit
+Elfbar GH 23000puffs Lime Grapefruit Ice
+Elfbar GH 23000puffs Miami Mint
+Elfbar GH 23000puffs Peach Mango Watermelon
+Elfbar GH 23000puffs Sakura Grape
 Elfbar GH 23000puffs Spring Mint
 Elfbar GH 23000puffs Strawberry Banana
 Elfbar GH 23000puffs Strawberry Ice
-Elfbar TE5000 Apple Peach
-Elfbar TE5000 Black Mint Ice
+Elfbar GH 23000puffs Watermelon Ice
 Elfbar TE5000 Blue Razz
-Elfbar TE5000 Blue Razz Lemonade
-Elfbar TE5000 Blueberry Ice
-Elfbar TE5000 Cherry Lemon Peach Ice
 Elfbar TE5000 Grape
-Elfbar TE5000 Grape Honeydew
-Elfbar TE5000 Strawberry Ice Cream
-Elfbar TE5000 Watermelon Ice
-Elfbar TE5000 Watermelon Lemon Ice
-GEEKBAR 5000puffs Blue Razz Lemonade
+GEEKBAR Pulse 15000puffs B Pop
+GEEKBAR Pulse 15000puffs Berry Bliss
 GEEKBAR Pulse 15000puffs Black Cherry
 GEEKBAR Pulse 15000puffs Blue Razz Ice
-GEEKBAR Pulse 15000puffs Blueberry Watermelon
+GEEKBAR Pulse 15000puffs Crazy Melon
+GEEKBAR Pulse 15000puffs Fcuking Fab
 GEEKBAR Pulse 15000puffs Grape B Pop
 GEEKBAR Pulse 15000puffs Grape Lemon
+GEEKBAR Pulse 15000puffs Juice Peach
+GEEKBAR Pulse 15000puffs Meta Moon
+GEEKBAR Pulse 15000puffs Mexico Mango
+GEEKBAR Pulse 15000puffs Miami Mint
+GEEKBAR Pulse 15000puffs Omg B Pop
 GEEKBAR Pulse 15000puffs Orange Creamsicle
 GEEKBAR Pulse 15000puffs Pink Lemonade
+GEEKBAR Pulse 15000puffs Sour Apple
+GEEKBAR Pulse 15000puffs Sour Apple B pop
+GEEKBAR Pulse 15000puffs Tropical Rainbow Blast
+GEEKBAR Pulse 15000puffs Watermelon
+GEEKBAR Pulse 15000puffs White Gummy
 Ignite v150 Berry Blast
 Ignite v150 Blueberry Ice
 Ignite v150 Cherry Banana
@@ -87,73 +82,80 @@ Ignite v150 Sour Raspberry
 Ignite v150 Strawberry Apple Watermelon
 Ignite v150 Strawberry Ice
 Ignite v150 Strawberry Kiwi
-Ignite v150 Strawberry Watermelon Ice
 Ignite v150 Watermelon Ice
 Ignite v150 Watermelon Mix
-Ignite v80 Banana Ice
+Ignite v50 BLACK Banana
+Ignite v50 BLACK Green Apple
+Ignite v50 BLACK Icy Mint
+Ignite v50 BLACK Menthol
+Ignite v50 BLACK Peach Raspberry
+Ignite v50 BLACK Strawberry Kiwi
+Ignite v80 Blueberry Ice
 Ignite v80 Cactus
-Ignite v80 Grapefruit Mint
-Ignite v80 Green Apple
-Ignite v80 Passion Fruit Sour Kiwi
+Ignite v80 Strawberry Kiwi
+Ignite v80 Tobacco
 Life Pod 10000puffs Refil Banana Custard
 Life Pod 10000puffs Refil BlackBerry Ice
 Life Pod 10000puffs Refil Blue Strawberry Cake
-Life Pod 10000puffs Refil Blueberry Mint
-Life Pod 10000puffs Refil Candy Ice
 Life Pod 10000puffs Refil Capuccino
 Life Pod 10000puffs Refil Cherry Lime Ice
-Life Pod 10000puffs Refil Clear
 Life Pod 10000puffs Refil Cranberry Cake
-Life Pod 10000puffs Refil Dragon Fruit Ice
-Life Pod 10000puffs Refil Grape Honey
 Life Pod 10000puffs Refil Green Apple
 Life Pod 10000puffs Refil Kiwi Berry
-Life Pod 10000puffs Refil Menthol
-Life Pod 10000puffs Refil Miami Mint
 Life Pod 10000puffs Refil Peach Orange
 Life Pod 10000puffs Refil Pink Lemonade
-Life Pod 10000puffs Refil Strong Apple
-Life Pod 10000puffs Refil Summer Love
 Life Pod 10000puffs Refil Tobacco Virginia
-Life Pod 10000puffs Refil Watermelon Peach Ice
 Life Pod KIT 5000puffs Mango Ice
 LostMary MO 10000puffs Apple Guava
-LostMary MO 10000puffs Blue Dragon Fruit Peach
-LostMary MO 10000puffs Blue Razz P&B
-LostMary MO 10000puffs Forest Berry Energy
 LostMary MO 10000puffs Granny Cherry
 LostMary MO 10000puffs Green Mango
-LostMary MO 10000puffs Mango Berry
 LostMary MO 10000puffs Matcha Mint Ice
-LostMary MO 10000puffs Mixed Prunus
 LostMary MO 10000puffs Orange Pine Nana Mango
 LostMary MO 10000puffs Pomegranade Coconut
-LostMary MO 10000puffs Spearmint
-LostMary MO 10000puffs Strawberry Grape Fruit
-NIKBAR 4000puffs Skittles
-OXBAR 10000puffs Blue Razz
-OXBAR 10000puffs Cranberry Lemon Ice
-OXBAR 10000puffs Pineapple Lemon Ice
-OXBAR 10000puffs Razz Pineapple
+LostMary MO 20000puffs Lime GrapeFruit
+LostMary MO 20000puffs Sour Apple Ice
+LostMary MT 15000puffs Baja Splash
+LostMary MT 15000puffs Banana Cake
+LostMary MT 15000puffs Citrus Sunrise
+LostMary MT 15000puffs Dr Cherry
+LostMary MT 15000puffs Nana Coconut
+LostMary MT 15000puffs Winter Mint
+MAXBAR Z10 10000puffs Cotton Candy
+MAXBAR Z10 10000puffs Juicy Peach
+MAXBAR Z10 10000puffs Lychee Mango
+MAXBAR Z10 10000puffs Mango Peach
+MAXBAR Z10 10000puffs Passion Guava
+MAXBAR Z10 10000puffs Pina Colada
+MAXBAR Z10 10000puffs Sakura Grape
+MAXBAR Z10 10000puffs Spearmint
+MAXBAR Z10 10000puffs Strawmelon
+MAXBAR Z7 7000puffs Aloe Watermelon Ice
+MAXBAR Z7 7000puffs Banana Ice
+MAXBAR Z7 7000puffs Banana Melon Ice
+MAXBAR Z7 7000puffs Frozen Mint
+MAXBAR Z7 7000puffs Grape Ice
+MAXBAR Z7 7000puffs Green Apple
+MAXBAR Z7 7000puffs Guava Ice
+MAXBAR Z7 7000puffs Passion Fruit Ice
+MAXBAR Z7 7000puffs Strawberry Ice
+MAXBAR Z7 7000puffs Wild Berry Ice
 OXBAR 10000puffs Splash Bros Lemonade
 OXBAR 8000puffs Avocado Nana
 OXBAR 8000puffs Banana Ice
-OXBAR 8000puffs Cool Mint
 OXBAR 8000puffs Cranberry Grape
 OXBAR 8000puffs Cranberry Lemon Ice
-OXBAR 8000puffs Double Apple
 OXBAR 8000puffs Fanta Strawberry
 OXBAR 8000puffs Fruit Paradise
-OXBAR 8000puffs Kiwi Passion Kick
 OXBAR 8000puffs Lemon Mint
 OXBAR 8000puffs Lychee Watermelon
+OXBAR 8000puffs Mad Blue
+OXBAR 8000puffs Mango Peach
 OXBAR 8000puffs Peach Blue Razz
 OXBAR 8000puffs Peach Ice
 OXBAR 8000puffs Rainbow Drop
 OXBAR 8000puffs Sea Salt Lemon
 OXBAR 8000puffs Strawberry Ice
 OXBAR 8000puffs Strawberry Lemon
-OXBAR 8000puffs Strawberry Watermelon
 OXBAR 8000puffs Strawnana
 OXBAR 8000puffs Sunset Watermelon
 OXBAR 8000puffs Triple Mango
